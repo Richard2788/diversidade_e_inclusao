@@ -1,0 +1,1 @@
+window.alert(`Esta pagina mostra um video onde se explica como o preconceito impacta outros`)

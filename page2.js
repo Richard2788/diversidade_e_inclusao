@@ -1,0 +1,1 @@
+window.alert(`aqui mostrara imagems de pessoas de diferentes culturas`)
